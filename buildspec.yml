@@ -6,4 +6,4 @@ phases:
       - echo Build started on `date`
   post_build:
     commands:
-      - ./aws-script.sh.
+      - ./aws-script.sh
